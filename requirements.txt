@@ -2,3 +2,5 @@ altair
 pandas
 streamlit
 PyPDF2
+streamlit_extras
+langchain
